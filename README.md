@@ -1,8 +1,3 @@
----
-title: How to Debug Electron JavaScript and TypeScript with VSCode
-permalink: /
----
-
 # How to Debug Electron JavaScript and TypeScript with VSCode
 
 ## Summary
