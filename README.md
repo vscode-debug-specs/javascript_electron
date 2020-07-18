@@ -1,4 +1,4 @@
-# How to Debug Electron JavaScript and TypeScript with VSCode
+# How to Debug Electron JavaScript and TypeScript with VS Code
 
 ## Summary
 
